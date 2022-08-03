@@ -1,5 +1,7 @@
 Sentiment analysis of twitter stream 
 
+![alt text](https://github.com/[nandangonchikar]/[Twitter_sentiment_analysis-]/blob/[master]/images/Flowchart.png?raw=true)
+
 Dependencies:
 Java - openjdk 11.0.15 2022-04-19
 kafka_2.12-3.2.0
