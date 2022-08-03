@@ -8,7 +8,7 @@ import datetime
 
 
 filterTopic="#marvel lang:en"   ##set the topic here to read specific data from filter
-BEARER_TOKEN='AAAAAAAAAAAAAAAAAAAAAPcufAEAAAAAxKKd6R0QW0CVnB%2BXK%2Br5b1HT730%3DxPo5x5EToJU0TxFLwMFlpQPfQmUqMSYCltL3yUlraRxgVoWB0J'
+BEARER_TOKEN='Your Bearer Token'
 
   ##Delete all the rules created from beginning. If the filter topic is changed from a to b then both will be applied
   #run this function to remove all the rules
