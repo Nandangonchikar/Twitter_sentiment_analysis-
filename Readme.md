@@ -1,6 +1,6 @@
 Sentiment analysis of twitter stream 
 
-![alt text](https://github.com/[nandangonchikar]/[Twitter_sentiment_analysis-]/blob/[master]/images/Flowchart.png?raw=true)
+![Flowchart](https://github.com/Nandangonchikar/Twitter_sentiment_analysis-/blob/main/images/Flowchart.png?raw=true)
 
 Dependencies:
 Java - openjdk 11.0.15 2022-04-19
